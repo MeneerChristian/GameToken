@@ -1,3 +1,5 @@
 {
-  
+  "name": "Espacio Publicitario",
+  "description": "Cada token representa un espacio publicitario único en la ciudad.",
+  "decimals": 6
 }
